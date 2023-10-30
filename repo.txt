@@ -5,6 +5,7 @@ master
 new branch
 root
 push request
+pull request
 
 
 
